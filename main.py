@@ -1,3 +1,4 @@
+/*© 2022. arindamdas13. All Rights Reserved*/
 import pyttsx3
 import webbrowser
 import smtplib
